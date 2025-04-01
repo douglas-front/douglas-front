@@ -14,6 +14,7 @@
   <img aling="center" alt="SASS" src="https://img.shields.io/badge/SASS-323330?style=for-the-badge&logo=sass&logoColor=pink"/>
   <img aling="center" alt="TAIWIND" src="https://img.shields.io/badge/Tailwind_CSS-323330?style=for-the-badge&logo=tailwind-css&logoColor=blue"/>
   <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=blue"/>
   <img aling="center" alt="REACT" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=blue"/>
   <img aling="center" alt="NEXT JS" src="https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img aling="center" alt="ANGULAR JS" src="https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=red"/>
