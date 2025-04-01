@@ -1,4 +1,4 @@
-### Olá, meu nome é Douglas 👋
+### OLÁ, MEU NOME É DOUGLAS 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-rodrigues-310128276)
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wwwdouglas.vercel.app)
 
@@ -6,7 +6,7 @@
 ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=douglas-front&show_icons=true&theme=dark)
 
 
-## Tecnologias que eu domino
+## TECNOLOGIAS QUE EU DOMINO
 
 <div style="display: inline-block">
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=red"/>
