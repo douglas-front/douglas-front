@@ -19,9 +19,9 @@
   <img aling="center" alt="NEXT JS" src="https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img aling="center" alt="ANGULAR JS" src="https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=red"/>
   <img aling="center" alt="VUE JS" src="https://img.shields.io/badge/Vue.js-323330?style=for-the-badge&logo=vue.js&logoColor=green"/>
-  <img aling="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=green"/>
-  <img aling="center" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=blue"/>
   <img aling="center" alt="NODE JS" src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=green"/>
   <img aling="center" alt="EXPRESS JS" src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge"/>
   <img aling="center" alt="NEST JS" src="https://img.shields.io/badge/NestJS-323330?style=for-the-badge&logo=nestjs&logoColor=red"/>
+  <img aling="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=green"/>
+  <img aling="center" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=blue"/>
 </div>
